@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.tmp/
+*.log
+.DS_Store
+
+# 本地 AI 配置含访问密钥，不进入仓库
+electron/ai.config.json
